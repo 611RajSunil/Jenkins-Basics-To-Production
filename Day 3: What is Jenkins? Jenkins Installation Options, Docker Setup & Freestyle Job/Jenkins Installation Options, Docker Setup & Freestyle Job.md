@@ -454,7 +454,7 @@ This single job, edited in stages, gives beginners a clean tour of **execution c
 
 ## Conclusion
 
-You now have a **running Jenkins** (Docker lab), understand **when to choose** each install method, and have created a **Freestyle job** that prints environment details, archives artifacts, and checks out code—plus you know the difference between **OS-level tools** and **Tools-managed** integrations. Next up: **Day 4**—introducing **Pipelines (Jenkinsfile)**, agents, and promoting artifacts/images by **immutable digest**.
+You now have a **running Jenkins** (Docker lab), understand **when to choose** each install method, and have created a **Freestyle job** that prints environment details, archives artifacts, and checks out code—plus you know the difference between **OS-level tools** and **Tools-managed** integrations. Next up: **Day 4: Jenkins Freestyle Power-Ups | Build Parameters, Branch Input, Poll SCM & Cron Cleanup**, agents, and promoting artifacts/images by **immutable digest**.
 
 ---
 
