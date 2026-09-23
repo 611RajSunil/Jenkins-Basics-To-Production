@@ -1,6 +1,6 @@
 # Day 4 : Jenkins Freestyle Power-Ups & Build Parameters, Branch Input, Poll SCM & Cron Clean-up
 
-*[Introduction](#introduction)  
+* [Introduction](#introduction)  
 * [Inside `$JENKINS_HOME`: What Lives in the Jenkins Home Directory](#inside-jenkins_home-what-lives-in-the-jenkins-home-directory)  
   * [Top-Level Configuration (Files)](#top-level-configuration-files)  
     * [Why you still see “hudson”](#why-you-still-see-hudson)  
