@@ -41,7 +41,7 @@ Today we’ll convert our Freestyle flow into a **Jenkinsfile**: same steps (che
 Before Day 6, make sure you’re comfortable with the Day-5 flow (Docker-outside-of-Docker, credentials, build → push → deploy → test).
 Review these:
 
-* **Day 5 — GitHub Notes:** [Day 5 : Jenkins Project 1 : Build, Push & Run a Flask App with Jenkins](Day 5 : Jenkins Project 1 : Build, Push & Run a Flask App with Jenkins)
+* **Day 5 — GitHub Notes:** [Day 5 : Jenkins Project 1 : Build, Push & Run a Flask App with Jenkins](https://github.com/611RajSunil/Jenkins-Basics-To-Production/tree/main/Day%205%20%3A%20Jenkins%20Project%201%20%3A%20Build%2C%20Push%20%26%20Run%20a%20Flask%20App%20with%20Jenkins)
 
 ---
 
